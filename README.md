@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NagaAbirami1709
 - 👀 I’m interested in software development or as an analyst which helps in problem-solving
-- 🌱 I’m currently learning web development - front end (html5, css, bootstrap, react)
+- 🌱 I’m currently learning PowerBI, Excel for data analysis
 - 💞️ I’m looking to collaborate with lie minded people or work as an intern
 - 📫 How to reach me ...nagaabirami1709@gmail.com
 
